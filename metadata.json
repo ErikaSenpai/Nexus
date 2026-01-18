@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Minigames",
+  "description": "Una plataforma de minijuegos moderna. Incluye el juego 'El Impostor' con gestión de jugadores, pistas opcionales y generación de palabras por IA.",
+  "requestFramePermissions": []
+}
